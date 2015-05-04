@@ -1,0 +1,42 @@
+a:link{color:#0099cc;}
+a:visited{color:#0099cc;}
+a:hover{color:#c0d6e4;}
+
+img{width: 100%;}
+
+body{
+	background-color: #E1E2E1;
+}
+.title{
+	color: #666666;
+	text-align: center;
+}
+.table-block{
+	text-align: center;
+	width: 33%
+}
+.top{
+	box-shadow: 0px 2px 4px #888888;
+	background-color: #d3ffce;
+	width: 100%;
+	text-align: center;
+}
+.titlebox{
+	padding-left:1%;
+	padding-top:1%;
+	background-color: #afeeee;
+	box-shadow: 0px 2px 4px #888888;
+}
+.whitebox{
+	box-shadow: 0px 2px 4px #888888;
+	background-color: #FFFFFF;
+	padding-left: 2%;
+	padding-right: 2%;
+	width: 100%;
+}
+.piccap{
+	text-align: center;
+}
+.teampic{
+	width: 100%;
+}
